@@ -1,13 +1,12 @@
 ## Hi there 👋
-I am Sandeep SD, a dynamic and results-oriented Data & Business Analyst with 5 years of experience transforming complex datasets into actionable insights to drive business growth and operational efficiency. Skilled in data visualization, statistical analysis, and predictive modeling, with extensive hands-on experience in Python, SQL, Power BI, and Tableau. Expertise includes data cleaning, wrangling, and process automation, paired with exceptional problem-solving, communication, and presentation abilities. Passionate about leveraging data to solve critical challenges and committed to advancing into a senior role to contribute to organizational success and strategic objectives
+Dynamic Data Analyst with 5 years of experience turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
 
 #### Look at this 👀
 
 * 👨‍💻 I'm currently working as a Research Analyst
 * 👯 I’m looking to collaborate on Open-Source Data Projects.
 * 💬 Ask me about DATA
-* 📝 My articles are available on >>>>>>>>>>>>
-* 📄 Get my resume >>>>>>>>>>>>>>>>>>>>>>>
+* 📄 Get my resume [Here](https://drive.google.com/file/d/1JGuYKwSnJMDfxv8zIkZpVCdp8S5IgEeE/view?usp=share_link)
 
 <br>
 
@@ -53,10 +52,26 @@ I am Sandeep SD, a dynamic and results-oriented Data & Business Analyst with 5 y
   
 * Banking & Insurance, Product Analytics, SaaS 
 
-#### 📚 Featured Projects
+📚 Featured Projects
 
-#### 📔 Latest Blog Posts
+
+<br>
+
+
+📔 Latest Blog Posts [Here](https://medium.com/@sandeepsdfrance)
+
+<br>
+
 
 🚀 Visit my portfolio
+
 <br>
-📩 Contact Me
+
+📩 **Contact Me:**
+
+<a href="mailto:sandeepsrinivasd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/s-d-sandeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
+<br>
+
+
