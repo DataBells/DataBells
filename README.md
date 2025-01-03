@@ -6,7 +6,7 @@ Dynamic Data Analyst with 5 years of experience turning complex datasets into ac
 * 👨‍💻 I'm currently working as a Research Analyst
 * 👯 I’m looking to collaborate on Open-Source Data Projects.
 * 💬 Ask me about DATA
-* 📄 Get my resume [Here](https://drive.google.com/file/d/1JGuYKwSnJMDfxv8zIkZpVCdp8S5IgEeE/view?usp=share_link)
+* 📄 Get my resume - [click here](https://drive.google.com/file/d/1JGuYKwSnJMDfxv8zIkZpVCdp8S5IgEeE/view?usp=share_link)
 
 <br>
 
@@ -58,12 +58,16 @@ Dynamic Data Analyst with 5 years of experience turning complex datasets into ac
 <br>
 
 
-📔 Latest Blog Posts [Here](https://medium.com/@sandeepsdfrance)
+📔 Latest Blog Posts - [click here](https://medium.com/@sandeepsdfrance)
 
 <br>
 
 
 🚀 Visit my portfolio
+
+<br>
+
+🌎 My Interests: Travelling - [click here](https://unsplash.com/@sandeepsrinivasdwaram)
 
 <br>
 
