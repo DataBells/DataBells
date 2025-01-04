@@ -62,6 +62,10 @@ Dynamic Data Analyst with 5 years of experience turning complex datasets into ac
 
 <br>
 
+🔥 Tableau Public - [click here](https://public.tableau.com/app/profile/sandeep.sd)
+
+<br>
+
 
 🚀 Visit my portfolio
 
