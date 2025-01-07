@@ -1,5 +1,5 @@
 ## Hi there 👋
-Dynamic Data Analyst with 5 years of experience turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
+Dynamic Data Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
 
 #### Look at this 👀
 
