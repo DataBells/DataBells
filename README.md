@@ -66,6 +66,9 @@ Dynamic Data Analyst experienced in turning complex datasets into actionable ins
 
 <br>
 
+🖥️ Kaggle - [click here](https://www.kaggle.com/sandeep1080)
+
+<br>
 
 🚀 Visit my portfolio
 
