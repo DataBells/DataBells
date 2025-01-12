@@ -63,7 +63,7 @@ Research Analyst experienced in turning complex datasets into actionable insight
 <br>
 🚀 Visit my portfolio - Updating Soon
 <br>
-🌎 My Interests: Travelling - [click here](https://unsplash.com/@sandeepsrinivasdwaram)
+🌎 My Interests: Travelling - [click here](https://unsplash.com/@sandeepsd)
 <br>
 
 📩 **Contact Me:**
