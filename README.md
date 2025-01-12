@@ -1,16 +1,15 @@
 ## Hi there 👋
-Dynamic Data Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
+Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
 
 #### Look at this 👀
 
 * 👨‍💻 I'm currently working as a Research Analyst
 * 👯 I’m looking to collaborate on Open-Source Data Projects.
 * 💬 Ask me about DATA
-* 📄 Get my resume - [click here](https://drive.google.com/file/d/1JGuYKwSnJMDfxv8zIkZpVCdp8S5IgEeE/view?usp=share_link)
 
 <br>
 
-#### Some Technical Stuff I Work With 🛠️ 
+#### 🛠️ Some Technical Stuff I Work With 
 
 **Programming Languages**
 
@@ -50,39 +49,27 @@ Dynamic Data Analyst experienced in turning complex datasets into actionable ins
   
 **Domain**
   
-* Banking & Insurance, Product Analytics, SaaS 
-
-📚 Featured Projects
-
+* Banking & Insurance, Product Analytics, SaaS
 
 <br>
 
-
+📚 Featured Projects - Please check my GitHub and Kaggle
+<br>
 📔 Latest Blog Posts - [click here](https://medium.com/@sandeepsdfrance)
-
 <br>
-
 🔥 Tableau Public - [click here](https://public.tableau.com/app/profile/sandeep.sd)
-
 <br>
-
 🖥️ Kaggle - [click here](https://www.kaggle.com/sandeep1080)
-
 <br>
-
-🚀 Visit my portfolio
-
+🚀 Visit my portfolio - Updating Soon
 <br>
-
 🌎 My Interests: Travelling - [click here](https://unsplash.com/@sandeepsrinivasdwaram)
-
 <br>
 
 📩 **Contact Me:**
 
 <a href="mailto:sandeepsrinivasd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/s-d-sandeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-
 <br>
 
 
