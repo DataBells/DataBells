@@ -45,7 +45,7 @@ Research Analyst experienced in turning complex datasets into actionable insight
   
 **Functional Skills**
 
-* Business Intelligence, Data cleaning & wrangling, Communication, Problem-solving, Agile, Scrum, Forecasting & Predictive Analytics
+* BI, Data cleaning & wrangling, Web Scraping, Analytics, Problem-solving, Agile, Scrum 
   
 **Domain**
   
