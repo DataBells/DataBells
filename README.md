@@ -21,7 +21,7 @@ Research Analyst experienced in turning complex datasets into actionable insight
   
 **Machine Learning Algorithms**
 
-* Linear Regression, Logistic Regression, KMeans Clustering, Time Series Forecasting, Classification, Decision Trees
+* Linear Regression, Logistic Regression, KMeans Clustering, Time Series Forecasting, Classification, and Decision Trees
   
 **Databases / Data Warehousing**
 
