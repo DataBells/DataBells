@@ -1,5 +1,5 @@
 ## Hi there 👋
-Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in Python, SQL, Power BI, and Tableau, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
+Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in **Python, SQL, Power BI, and Tableau**, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.
 
 #### Look at this 👀
 
@@ -66,7 +66,9 @@ Research Analyst experienced in turning complex datasets into actionable insight
 🌎 My Interests: Travelling - [click here](https://unsplash.com/@sandeepsd)
 <br>
 
+
 📩 **Contact Me:**
+
 
 <a href="mailto:sandeepsrinivasd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/s-d-sandeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
