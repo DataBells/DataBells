@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋    ![](https://komarev.com/ghpvc/?username=DataBells&color=green&for-the-badge&base=100)
 Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in **Python, SQL, Power BI, and Tableau**, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals. <br>
 
 <br>
@@ -79,5 +79,7 @@ Research Analyst experienced in turning complex datasets into actionable insight
 <a href="mailto:sandeepsrinivasd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/s-d-sandeep/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <br>
+
+
 
 
