@@ -1,5 +1,6 @@
-## Hi there 👋    ![](https://komarev.com/ghpvc/?username=DataBells&color=green&for-the-badge&base=100)
-Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in **Python, SQL, Power BI, and Tableau**, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals. <br>
+
+## Hi there 👋      ![](https://komarev.com/ghpvc/?username=DataBells&color=green&for-the-badge&base=100)
+I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in **Python, SQL, Power BI, and Tableau**, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals. <br>
 
 
 
