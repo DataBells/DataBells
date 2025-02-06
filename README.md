@@ -1,3 +1,4 @@
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23961675%2Fb153bcc3755e3d66576d9ff4820f563d%2FSandeep%20SD%20(1).png?generation=1738852459070934&alt=media)
 ## Hi there 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=DataBells&color=green&for-the-badge&base=100)  
 I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets into actionable insights to drive growth and efficiency. Proficient in **Python, SQL, Power BI, and Tableau**, with expertise in data visualization, statistical analysis, predictive modeling, and process automation. Skilled in data cleaning, wrangling, and presenting insights with clarity. Committed to solving business challenges through data-driven strategies and advancing organizational goals.  
