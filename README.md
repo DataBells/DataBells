@@ -53,6 +53,17 @@ I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets 
 </a>
 <br>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DataBells&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DataBells&theme=solarized_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Sandeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DataBells&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
 
 
