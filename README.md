@@ -31,7 +31,7 @@ I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets 
 <br>
 
 ### 📚 Featured Projects
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=green)](https://github.com/sandeep1080) [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=skyblue)](https://www.kaggle.com/sandeep1080) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=Yelloa)](https://public.tableau.com/app/profile/sandeep.sd)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=green)](https://github.com/DataBells) [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=skyblue)](https://www.kaggle.com/sandeep1080) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=Yelloa)](https://public.tableau.com/app/profile/sandeep.sd)
 
 
 ### 📔 Latest Blog Posts
@@ -51,3 +51,8 @@ I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets 
 <a href="https://www.linkedin.com/in/s-d-sandeep/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<br>
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
