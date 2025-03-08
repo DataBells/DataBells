@@ -48,9 +48,9 @@ I am **Sandeep SD**, a Research Analyst experienced in turning complex datasets 
 <a href="mailto:sandeepsrinivasd@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/s-d-sandeep/">
+<!-- <a href="https://www.linkedin.com/in/s-d-sandeep/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a> -->
 <br>
 <br>
 
