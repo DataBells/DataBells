@@ -32,7 +32,7 @@ I am **Sandeep SD**, a **Research Analyst** experienced in specializing business
 
 
 ### 📔 Latest Blog Posts
-[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sandeepsdfranc)
+[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sandeepsdfrance)
 
 
 ### 🚀 Portfolio (Coming Soon)
