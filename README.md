@@ -8,6 +8,7 @@ I am **Sandeep SD**, a **Research Analyst** experienced in specializing business
 - 👨‍💻 Currently working as a Research Analyst
 - 👯 Looking to collaborate on Open-Source Data Projects
 - 💬 Ask me about **DATA** and how it can drive business insights
+  
 
 <br>
 
