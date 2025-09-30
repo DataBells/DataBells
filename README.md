@@ -1,4 +1,4 @@
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F23961675%2Fceb6b65a46af8cc93f84143c1e6454bb%2FSandeep%20SD%20Data%20Portfolio%20(1).png?generation=1738856654043033&alt=media)
+
 ## Hi there 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=DataBells&color=green&for-the-badge&base=100)  
 I am **Sandeep SD**, a **Research Analyst** experienced in specializing business intelligence, product analytics, and market research across the technology and financial sectors. Holder of a Master’s in Data Science & Analytics, am skilled in Python, SQL, and data visualization tools (**Tableau, Power BI, Looker Studio**), and am proficient with cloud platforms (**GCP, AWS, Azure**). A **3x Kaggle Expert** with a proven track record of delivering actionable analytical solutions that accelerate decision-making by approximately **30%**.
